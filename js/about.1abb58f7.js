@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,t,n){"use strict";n.r(t);var a=n("7a23"),o={class:"about"},i=Object(a["f"])("a",{href:"https://github.com/CSSEGISandData/COVID-19"},[Object(a["f"])("h1",null,"Developed with Data from Johns Hopkins University")],-1),c=Object(a["f"])("a",{href:"mailto:kevin.h.yeh+covid@gmail.com"},"Analysis by Kevin Yeh, MD",-1);function s(e,t){return Object(a["o"])(),Object(a["d"])("div",o,[i,c])}const b={};b.render=s;t["default"]=b}}]);
+//# sourceMappingURL=about.1abb58f7.js.map
